@@ -1,2 +1,9 @@
+augmentable-cdxs/
+augmentable-jpgs/
+augmentable-tifs/
+cdxs/
+cdxs-with-logo/
 fbxs/
 sdfs/
+
+*.cdx

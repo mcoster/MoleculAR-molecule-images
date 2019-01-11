@@ -1,0 +1,25 @@
+adenosine.jpg
+allenes.jpg
+aspirin.jpg
+biphenyls.jpg
+boat_cyclohexane_with_text.jpg
+bromochlorofluoromethane.jpg
+butane_eclipsed.jpg
+butane_staggered.jpg
+chair_cyclohexane_with_text.jpg
+cis-1-bromo-2-methylcyclohexane_axial-Br.jpg
+cis-1-bromo-2-methylcyclohexane_equatorial-Br.jpg
+cis-1-bromo-4-tert-butylcyclohexane.jpg
+cis-bromonium.jpg
+Cy3.jpg
+Cy5.jpg
+dna3_355D.jpg
+hemoglobin_1gzx.jpg
+insulin_4INS.jpg
+L_and_D-asparagine.jpg
+R_and_S-camphor.jpg
+S and R-thalidomide.jpg
+trans-1-bromo-2-methylcyclohexane_di-axial.jpg
+trans-1-bromo-2-methylcyclohexane_di-equatorial.jpg
+trans-1-bromo-4-tert-butylcyclohexane.jpg
+trans-bromonium.jpg
